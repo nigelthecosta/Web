@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="ps4.css">
+  </head>
+  <body>
+      
+    <!-- navbar -->
+    <nav class="navbar navbar-toggleable-md navbar-inverse">
+        
+            <button class="navbar-toggler" data-toggle="collapse" data-target="#mainNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mainNav">
+                <div class="navbar-nav mr-auto">
+                    <a class="nav-item nav-link active" href="homepage.html" style="margin-right:800px; margin-left: 50px;padding-top:15px "><img src="images/logo.png" height="50" width="50" style="padding: 10px;">GangaGames</a>
+                    <a class="nav-item nav-link" href="#" style="padding-top: 15px;">Xbox One</a>
+                    <a class="nav-item nav-link" href="#" style="padding-top: 15px;">Playstation 4</a>
+                    <a class="nav-item nav-link" href="#" style="padding-top: 15px;">PC</a>
+                     <a class="nav-item nav-link" href="#" style="padding-top: 15px;">Switch</a>
+                    <a class="nav-item nav-link" href="#"><button type="button" class="btn btn-danger">Login</button></a>
+                    
+                </div>
+            </div>
+       
+    </nav>
+
+    
+    <div class="container text-muted ">
+
+        <!-- cards -->
+        
+        <div class="row">
+            <div class="col-md-6 col-lg-3">
+               <div class="card">
+                  
+                    <img class="card-img-top img-fluid" src="images/i3.jpeg">
+                    <div class="card-block">
+                        <h3 class="card-title">Cyberpunk 2077</h3>
+                        
+                    </div>
+                </div>
+                  
+            </div>
+        
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/i1.jpg">
+                    
+                    <div class="card-block">
+                        <h3 class="card-title">Witcher 3</h3>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/battlefield.jpg">
+                    <div class="card-block">
+                        <h3 class="card-title">Battlefield</h3>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/fifa.jpg">
+                    <div class="card-block">
+                        <h3 class="card-title">Fifa 20</h3>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="row">
+            <div class="col-md-6 col-lg-3">
+                <a href="bb.html"><div class="card">
+                    <img class="card-img-top img-fluid" src="images/i3.jpeg">
+                    <div class="card-block">
+                        <h3 class="card-title">Cyberpunk 2077</h3>
+                        
+                    </div>
+                </div></a>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/i1.jpg">
+                    
+                    <div class="card-block">
+                        <h3 class="card-title">Witcher 3</h3>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/battlefield.jpg">
+                    <div class="card-block">
+                        <h3 class="card-title">Battlefield</h3>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/fifa.jpg">
+                    <div class="card-block">
+                        <h3 class="card-title">Fifa 20</h3>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-6 col-lg-3">
+                <a href="bb.html"><div class="card">
+                    <img class="card-img-top img-fluid" src="images/i3.jpeg">
+                    <div class="card-block">
+                        <h3 class="card-title">Cyberpunk 2077</h3>
+                        
+                    </div>
+                </div></a>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/i1.jpg">
+                    
+                    <div class="card-block">
+                        <h3 class="card-title">Witcher 3</h3>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/battlefield.jpg">
+                    <div class="card-block">
+                        <h3 class="card-title">Battlefield</h3>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/fifa.jpg">
+                    <div class="card-block">
+                        <h3 class="card-title">Fifa 20</h3>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-6 col-lg-3">
+                <a href="bb.html"><div class="card">
+                    <img class="card-img-top img-fluid" src="images/i3.jpeg">
+                    <div class="card-block">
+                        <h3 class="card-title">Cyberpunk 2077</h3>
+                        
+                    </div>
+                </div></a>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/i1.jpg">
+                    
+                    <div class="card-block">
+                        <h3 class="card-title">Witcher 3</h3>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/battlefield.jpg">
+                    <div class="card-block">
+                        <h3 class="card-title">Battlefield</h3>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid" src="images/fifa.jpg">
+                    <div class="card-block">
+                        <h3 class="card-title">Fifa 20</h3>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+        
+       
+        
+
+        <!-- navs -->
+
+       
+        <div class="container">
+        <nav class="nav justify-content-center nav-pills flex-column flex-md-row mt-5">
+            <a class="nav-link active" href="#ninja" data-toggle="tab">About us</a>
+            <a class="nav-link" href="#wizard" data-toggle="tab">The Web Wizard</a>
+            <a class="nav-link" href="#captain" data-toggle="tab">Captain Code</a>
+            <a class="nav-link" href="#avenger" data-toggle="tab">Angular Avenger</a>
+        </nav>
+        <div class="tab-content">
+            <div class="tab-pane active" id="ninja">
+                <div class="row mt-3">
+                <div class="col-3">
+                <h3>Nigel D'Costa</h3>
+                    <label>4SO16CS072</label>4SO16CS072<br>
+                    CSE Department</div>
+                <div class="col-3">
+                <h3>Royston Noronha</h3>
+                <p>4SO16CS095</p>
+                    <p>CSE Department</p></div>
+            </div></div>
+            <div class="tab-pane fade" id="wizard">
+                <h3>The Web Wizard</h3>
+                <p>Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                <p>Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+            </div>
+            <div class="tab-pane fade" id="captain">
+                <h3>Captain Code</h3>
+                <p>Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                <p>Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+            </div>
+            <div class="tab-pane fade" id="avenger">
+                <h3>Angular Avenger</h3>
+                <p>Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                <p>Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+            </div>
+        </div>
+            </div>
+
+        
+
+    </div><!-- end .container -->
+         
+  
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+  </body>
+</html>
